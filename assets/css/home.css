@@ -1227,6 +1227,10 @@ footer{
         margin: 0 auto;
         position: relative;
     }
+    .footer-picture {
+        right: 0;
+        max-width: 290px;
+    }
 }
 @media (max-width: 575px){
 
@@ -1337,6 +1341,9 @@ footer{
         font-size: 16.25px;
         line-height: 21.25px;
     }
-
+    .footer-picture {
+        right: 0;
+        max-width: 190px;
+    }
 
 }
